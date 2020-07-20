@@ -4,6 +4,7 @@ My personal profile
 Tech Stack: HTML, CSS, Bootstrap
 Bootstrap class: Navbar, form, card, etc.
 Responsive: yes
+Bootstrap documentation: getbootstrap.com
 
 Key features:
 
@@ -12,3 +13,6 @@ Key features:
 3. Links to certificates and websites that I have worked on/with
 4. Progress bars indicating my proficiency in different languages/skills
 5. Landing page
+
+Hosted using: GitHub Pages
+Link: https://oindrila25.github.io/Profile/
