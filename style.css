@@ -3,19 +3,18 @@
             body,
             header,
             #intro-section {
-                height: 650px;
-                width: 100%;
+                height: 100%;
             }
 
-            @media{
+            @media (max-width: 740px) {
                 html,
                 body,
                 header,
                 #intro-section {
-                    height: 650px;
-                     width: 100%;
+                    height: 100vh;
                 }
             }
+
 
             .top-nav-collapse, .page-footer {
                 background-color: #563e91 !important;
