@@ -17,17 +17,21 @@
 
 
             .top-nav-collapse, .page-footer {
-                background-color: #563e91 !important;
+                background-color: #563e91;
             }
 
             .navbar:not(.top-nav-collapse) {
-                background: transparent !important;
+                background: transparent;
             }
 
             @media (max-width: 991px) {
                 .navbar:not(.top-nav-collapse) {
-                    background: #563e91 !important;
+                    background: #563e91;
                 }
+            }
+
+            #res{
+                     background-color: rgba(217, 37, 112, 0.5);
             }
 
             .rgba-gradient {
