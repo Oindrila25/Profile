@@ -3,16 +3,16 @@
             body,
             header,
             #intro-section {
-                height: 600px;
+                height: 650px;
                 width: 100%;
             }
 
-            @media (max-width: 760px) {
+            @media (max-width: 775px) {
                 html,
                 body,
                 header,
                 #intro-section {
-                    height: 600px;
+                    height: 650px;
                      width: 100%;
                 }
             }
