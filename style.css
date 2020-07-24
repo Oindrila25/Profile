@@ -17,7 +17,7 @@
 
 
             .top-nav-collapse, .page-footer {
-                background-color: #3f114d;
+                background-color: rgba(23, 38, 90, 0.6);
             }
 
             .navbar:not(.top-nav-collapse) {
@@ -26,7 +26,7 @@
 
             @media (max-width: 991px) {
                 .navbar:not(.top-nav-collapse) {
-                    background: #3f114d;
+                    background: rgba(23, 38, 90, 0.6);
                 }
             }
 
@@ -35,10 +35,10 @@
             }
 
             .rgba-gradient {
-                background: rgba(209, 10, 206, 0.5);
-                background: -webkit-linear-gradient(to bottom, rgba(23, 38, 90, 0.6), rgba(209, 10, 206, 0.5));
+                background: rgba(153, 13, 181, 0.5);
+                background: -webkit-linear-gradient(to bottom, rgba(23, 38, 90, 0.6), rgba(153, 13, 181, 0.5));
                 /* Chrome 10-25, Safari 5.1-6 */
-                background: linear-gradient(to bottom, rgba(23, 38, 90, 0.6), rgba(209, 10, 206, 0.5));
+                background: linear-gradient(to bottom, rgba(23, 38, 90, 0.6), rgba(153, 13, 181, 0.5));
                 /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
             }
 
