@@ -36,6 +36,10 @@
             #res{
                      background-color: rgba(217, 37, 112, 0.5);
             }
+            
+            #skills{
+                       background-color: #f7f0f0;
+            }
 
             .rgba-gradient {
                 background: rgba(217, 37, 112, 0.5);
