@@ -39,7 +39,7 @@
             }
             
              .flowers{
-                background-image: url("pink.jpg");   
+                background-image: url("flowers.jpg");   
                 position: relative;
                 z-index: 3;
 }
