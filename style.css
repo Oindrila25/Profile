@@ -38,12 +38,17 @@
                      background-color: rgba(217, 37, 112, 0.5);
             }
             
+             .flowers{
+                background-image: url("flowers.jpg");   
+                position: relative;
+                z-index: 3;
+}
         
             .rgba-gradient {
                         
-                background-image: url("flowers.jpg");
+                position: relative;
                 filter: opacity(70%);
-                
+                z-index: 2;
                 background: rgba(217, 37, 112, 0.5);
                 background: -webkit-linear-gradient(to bottom, rgba(6, 32, 87, 0.6), rgba(217, 37, 112, 0.5));
                 /* Chrome 10-25, Safari 5.1-6 */
