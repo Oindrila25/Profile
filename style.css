@@ -9,6 +9,7 @@
             .flowers{
                 background-image: url("flowers.jpg");
                 filter: opacity(70%);
+                height: 100vh;
             }
 
             @media{
