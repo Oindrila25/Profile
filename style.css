@@ -5,6 +5,11 @@
             #intro-section {
                 height: 100%;
             }
+            
+            .flowers{
+                background-image: url("flowers.jpg");
+                filter: opacity(70%);
+            }
 
             @media{
                 html,
