@@ -41,6 +41,8 @@
             #whitebg{
             
                         background-color: rgba(	187, 212, 219, 0.7);
+                        border: 3px solid rgb(54, 91, 143);
+                        box-shadow: 5px 5px 4px rgb(54, 91, 143), 10px 10px rgb(60, 164, 166);
             }
 
             #name{
