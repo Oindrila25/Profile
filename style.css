@@ -43,7 +43,7 @@
                         background-color: rgba(	187, 212, 219, 0.55);
                         /*border: 1px solid rgb(54, 91, 143);
                         box-shadow: 5px 5px 4px rgb(54, 91, 143);*/
-                        box-shadow: 5px 5px 4px rgba(10, 21, 38, 0.88);
+                       /* box-shadow: 5px 5px 4px rgba(10, 21, 38, 0.88);*/
             }
 
             #name{
